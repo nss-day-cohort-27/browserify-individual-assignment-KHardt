@@ -9,28 +9,54 @@
       "id": 1
     }
   ],
-
   "places": [
     {
       "name": "New York",
       "country": "USA",
-      "userID": ""
+      "userID": "",
+      "id": 1
     },
     {
       "name": "Venice",
       "country": "Italy",
-      "userID":""
+      "userID": ""
+    },
+    {
+      "name": "we",
+      "country": "qweq",
+      "id": 2
+    },
+    {
+      "name": "sda",
+      "country": "asda",
+      "id": 3
+    },
+    {
+      "name": "asda",
+      "country": "asd",
+      "id": 4
+    },
+    {
+      "name": "awda",
+      "country": "asd",
+      "id": 5
+    },
+    {
+      "name": "new ",
+      "country": "342",
+      "id": 6
     }
   ],
   "comments": [
     {
-      "description": "",
-      "placeID": "some comment"
+      "description": "some random comment",
+      "placeID": ""
     }
   ],
-  "images": {
-    "path": "typicode",
-    "placeID": ""
-
-  }
+  "images": [
+    {
+      "path": "",
+      "placeID": ""
+    }
+  ]
 }

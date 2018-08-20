@@ -9,3 +9,10 @@ Individual assessment - The Places You've Been! This mini application will list 
 6. All coordinated by main.js
 
 Timeframe - you will have this today while you're not in retros, and tomorrow afternoon after demos to finish up this project. This is an *individual assessment* for you to to assess your knowledge, and for us to assess your level of understanding. You can use your group projects or code alongs as resources, but _you must understand what the code is doing. Do NOT blindly copy and paste_. *Please do not use each other.* If you have any questions, please feel free to ask an instructor!
+
+
+stretch goals:
+have fetch pull related table data based on places
+
+CSS
+//User logIn
