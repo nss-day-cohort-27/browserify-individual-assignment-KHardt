@@ -11,40 +11,19 @@
   ],
   "places": [
     {
-      "name": "New York",
-      "country": "USA",
-      "userID": "",
-      "id": 1
-    },
-    {
       "name": "Venice",
       "country": "Italy",
-      "userID": ""
-    },
-    {
-      "name": "we",
-      "country": "qweq",
-      "id": 2
-    },
-    {
-      "name": "sda",
-      "country": "asda",
-      "id": 3
-    },
-    {
-      "name": "asda",
-      "country": "asd",
-      "id": 4
-    },
-    {
-      "name": "awda",
-      "country": "asd",
       "id": 5
     },
     {
-      "name": "new ",
-      "country": "342",
+      "name": "Frankfort",
+      "country": "Germany",
       "id": 6
+    },
+    {
+      "name": "Los Angeles",
+      "country": "USA",
+      "id": 8
     }
   ],
   "comments": [
