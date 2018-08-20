@@ -1,9 +1,7 @@
 const DataManager = require("./DataManager")
 //const sessionUser = require("../dataManager/sessionActiveUser")
-//const loadTaskForm = require("./taskForm")
-//const $ = require("jquery")
 
-//load tasks associated with userID in session storage
+
 function loadPlaces() {
   let findPlaces = DataManager.getAllPlaces()
 
@@ -16,7 +14,7 @@ function loadPlaces() {
       
         <h4>Place: ${element.name}</h4>
         <h4>Country: ${element.country}</h4>
-        <input type="checkbox" name="delete" value="delete" id="remove--${element.id}">Delete<br>
+        <button type="button" name="delete" value="delete" id="remove--${element.id}">Delete<br>
         `
     })
   })
