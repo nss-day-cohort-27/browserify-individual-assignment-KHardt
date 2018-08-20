@@ -16,6 +16,7 @@ function loadPlaces() {
       
         <h4>Place: ${element.name}</h4>
         <h4>Country: ${element.country}</h4>
+        <input type="checkbox" name="delete" value="delete" id="remove--${element.id}">Delete<br>
         `
     })
   })
