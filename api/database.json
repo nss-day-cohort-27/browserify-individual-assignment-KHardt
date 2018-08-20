@@ -1,19 +1,36 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "firstName": "test ",
+      "lastName": "test",
+      "userName": "test",
+      "email": "test",
+      "password": "test",
+      "id": 1
+    }
+  ],
+
+  "places": [
+    {
+      "name": "New York",
+      "country": "USA",
+      "userID": ""
+    },
+    {
+      "name": "Venice",
+      "country": "Italy",
+      "userID":""
     }
   ],
   "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "description": "",
+      "placeID": "some comment"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "images": {
+    "path": "typicode",
+    "placeID": ""
+
   }
 }
