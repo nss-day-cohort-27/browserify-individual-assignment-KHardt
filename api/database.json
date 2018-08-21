@@ -11,19 +11,49 @@
   ],
   "places": [
     {
-      "name": "Venice",
-      "country": "Italy",
-      "id": 5
-    },
-    {
-      "name": "Frankfort",
-      "country": "Germany",
-      "id": 6
-    },
-    {
       "name": "Los Angeles",
       "country": "USA",
       "id": 8
+    },
+    {
+      "name": "mn ",
+      "country": "mn ",
+      "id": 9
+    },
+    {
+      "name": "kjh",
+      "country": "kjh",
+      "id": 10
+    },
+    {
+      "name": ",.m",
+      "country": ",m,m",
+      "id": 11
+    },
+    {
+      "name": "asd",
+      "country": "asd",
+      "id": 12
+    },
+    {
+      "name": "ear",
+      "country": "er",
+      "id": 13
+    },
+    {
+      "name": "sf",
+      "country": "sdf",
+      "id": 14
+    },
+    {
+      "name": "ewe",
+      "country": "e",
+      "id": 15
+    },
+    {
+      "name": "we",
+      "country": "er",
+      "id": 16
     }
   ],
   "comments": [
@@ -34,8 +64,16 @@
   ],
   "images": [
     {
-      "path": "",
-      "placeID": ""
+      "photo": "sef",
+      "id": 1
+    },
+    {
+      "photo": "we",
+      "id": 2
+    },
+    {
+      "photo": "ef",
+      "id": 3
     }
   ]
 }

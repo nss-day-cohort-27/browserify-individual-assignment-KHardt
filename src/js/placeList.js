@@ -6,7 +6,7 @@ function loadPlaces() {
   let findPlaces = DataManager.getAllPlaces()
 
   findPlaces.then(result => {
-    console.log(result)
+    //console.log(result)
     document.getElementById("container")
     container.textContent = ""
     result.forEach(element => {

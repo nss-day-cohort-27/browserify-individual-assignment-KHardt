@@ -18,6 +18,19 @@ const dataManager = Object.create(null, {
         }
     },
 
+    createNewPlacePhoto: {
+        value: (newPhoto) => {
+            return fetch("http://localhost:8088/images", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(newPhoto)
+            }).then(r => r.json)
+        }
+
+    },
+
     deletePlace: {
         value: (id) => {
             return fetch(`http://localhost:8088/places/${id}`, {
